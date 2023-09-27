@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello everyone ✨ 
+
+This is work in progress, but I have been brain storming ideas. Will update soon xD
 
 <!--
 **akimi-yano/akimi-yano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
