@@ -1,6 +1,12 @@
 ### Hello everyone ✨ 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3OvvEXh9MU5246asQl/giphy.gif" width="100"/>
+</div>
+
 This is work in progress, but I have been brain storming ideas. Will update soon xD
+
+
 
 <!--
 **akimi-yano/akimi-yano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
