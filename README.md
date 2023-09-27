@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3OvvEXh9MU5246asQl/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin/in/akimi-yano">
+  <a href="https://www.linkedin.com/in/akimi-yano">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@akimiyano3021/featured">
