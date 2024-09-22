@@ -20,15 +20,15 @@
 
 ### :star: Notes :
 
-This is work in progress and in a test phase, but I have been brainstorming ideas to create something that would be useful for people. To be updated soon!
+Hello, welcome to my github page :) This is my playground for experimenting and learning interesting technologies.
 
 ---
 
 ### :woman_technologist: About Me :
 
-- :telescope: I am a Software Engineer passsionate about building mind-blowing AI integrated applications.
+- :telescope: I am a Software Engineer passsionate about building mind-blowing AI apps.
 
-- :seedling: I am currently exploring ways to contribute to different communities as well as learning every day myself.
+- :seedling: I am currently learning and exploring ways to contribute to different communities.
 
 - :zap: In my free time, I enjoy problem solving for various tech related comps, studying math and technologies, learning foreign languages, and climbing rocks.
 
@@ -53,19 +53,3 @@ This is work in progress and in a test phase, but I have been brainstorming idea
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<!--
-**akimi-yano/akimi-yano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
