@@ -1,4 +1,4 @@
-<div id="title" align="center"><h1>Hello everyone ✨</h1></div>
+<div id="title" align="center"><h1>Hello ✨ Welcome to Akimi's Github</h1></div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3OvvEXh9MU5246asQl/giphy.gif" width="100"/>
@@ -13,6 +13,9 @@
   <a href="https://twitter.com/akimiyanoai">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://www.kaggle.com/akimiyano">
+    <img src="https://img.shields.io/badge/Kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
 <div id="count" align="center">
 <img src="https://komarev.com/ghpvc/?username=akimi-yano&style=flat-square&color=blue" alt=""/>
@@ -20,17 +23,17 @@
 
 ### :star: Notes :
 
-Hello, welcome to my github page :) This is my playground for experimenting and learning interesting technologies.
+Hello, I am a Software Engineer specializing in Artificial Intelligence and Machine Learning ! I also have experience for Full Stack Engineering.
 
 ---
 
 ### :woman_technologist: About Me :
 
-- :telescope: I am a Software Engineer passsionate about building mind-blowing AI apps.
+- :telescope: Software Engineer passsionate about building mind-blowing AI apps.
 
-- :seedling: I am currently learning and exploring ways to contribute to different communities.
+- :seedling: Currently learning and exploring ways to contribute to different communities.
 
-- :zap: In my free time, I enjoy problem solving for various tech related comps, studying math and technologies, learning foreign languages, and climbing rocks.
+- :zap: In my free time, enjoying problem solving for various tech related comps, studying math and technologies, learning foreign languages, and climbing rocks.
 
 ---
 
