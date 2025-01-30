@@ -23,13 +23,13 @@
 
 ### :star: Notes :
 
-Hello, I am a Software Engineer specializing in Artificial Intelligence and Machine Learning ! I also have experience for Full Stack Engineering.
+Hello, my name is Akimi, and I am an Artificial Intelligence/ Machine Learning Software Engineer ! I also have experience for Full Stack Engineering.
 
 ---
 
 ### :woman_technologist: About Me :
 
-- :telescope: Software Engineer passsionate about building mind-blowing AI apps.
+- :telescope: Artificial Intelligence/ Machine Learning Software Engineer passsionate about building mind-blowing AI apps.
 
 - :seedling: Currently learning and exploring ways to contribute to different communities.
 
